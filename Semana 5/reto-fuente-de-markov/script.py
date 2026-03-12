@@ -2,6 +2,7 @@
 # Reto Fuente de Markov
 # Para el ejercicio se implementa una lista de palabras en español de aproximadamente 70000 palabras encontrado en internet,
 # esta es la fuente de la que se tomaron las palabras: https://github.com/xavier-hernandez/spanish-wordlist/blob/main/text/spanish_words.txt
+# Para cambiar el espacio muestral de palabras a adivinar, por favor modificar el archivo de texto "spanish_words.txt" respetando el formato
 
 data= "./spanish_words.txt"
 
